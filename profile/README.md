@@ -11,7 +11,7 @@ SHIELD is developing a simple, affordable blood test to detect pancreatic cancer
 ## CI/CD Services
 
 * [Jenkins](https://jenkins.shield.rid-intrasoft.eu)
-* [Harbor](https://registry.shield.rid-intrasoft.eu)
+* [Harbor](https://harbor.shield.rid-intrasoft.eu)
 * [Keycloak](https://keycloak.shield.rid-intrasoft.eu)
 
 ## Social Media and Website
