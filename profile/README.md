@@ -1,6 +1,6 @@
 # SHIELD
 
-![SHIELD Logo](../images/shield_logo.png)
+![SHIELD Logo](../images/shield_logo_full.png)
 
 ## Project Information
 
